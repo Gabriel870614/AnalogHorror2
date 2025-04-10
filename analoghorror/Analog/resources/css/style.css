@@ -1,0 +1,45 @@
+* {
+    background-color: #9e2c13;
+}
+
+h1 {
+    font-size: 2rem;
+    color: #3a4660;
+    font-weight: 600;
+}
+
+h2 {
+    font-size: 1.5rem;
+    color: #3a4660;
+    text-align: center;
+}
+
+h3 {
+    font-size: 1.3rem;
+    color: #9e6008;
+}
+
+h4 {
+    font-size: 1.5rem;
+    color: #9e6008
+}
+
+h4 {
+    font-size: 1.5rem;
+    text-align: center
+    
+}
+
+a {
+   background-color: #3a4660;
+   color: #9e6008;
+   text-decoration: none;
+   padding: 20px;
+}
+
+p {
+    font-size: 1.3rem;
+    text-align: center;
+    color: #9e6008
+}
+
